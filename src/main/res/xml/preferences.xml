@@ -128,7 +128,7 @@
             <Preference
                 android:key="studio"
                 android:title="@string/version"
-                android:summary="v3.1.0"/>
+                android:summary="v3.1.0 Beta 1"/>
             <Preference
                 android:key="authors"
                 android:title="@string/authors" />
@@ -168,6 +168,9 @@
                     android:title="@string/portuguese_translation_title"
                     android:summary="@string/portuguese_translation_summary" />
                 <Preference
+                    android:title="@string/brazilian_portuguese_translation_title"
+                    android:summary="@string/brazilian_portuguese_translation_summary" />
+                <Preference
                     android:title="@string/polish_translation_title"
                     android:summary="@string/polish_translation_summary" />
                 <Preference
@@ -182,6 +185,9 @@
                 <Preference
                     android:title="@string/romanian_translation_title"
                     android:summary="@string/romanian_translation_summary" />
+                <Preference
+                    android:title="@string/vietnamese_translation_title"
+                    android:summary="@string/vietnamese_translation_summary" />
 
                 </PreferenceScreen>
             <Preference

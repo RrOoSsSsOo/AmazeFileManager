@@ -2,6 +2,8 @@
 
 [<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 [<img alt="Get it on F-Droid" height="80" src="https://f-droid.org/badge/get-it-on.png">](https://f-droid.org/app/com.amaze.filemanager)
+[<img alt="Get it on AFH" height="80" width="207" src="https://www.androidfilehost.com/images/afh.png">](https://www.androidfilehost.com/?w=files&flid=73967)
+
 
 Amaze File Manager source code.
 
@@ -20,6 +22,16 @@ Amaze File Manager source code.
 
 ###Note
 - Basic r/w operations might not work on external memory on Kitkat devices. Don't use cut/paste from or to external SD Card. You might lose your files.
+
+Contributors
+-----
+Make sure to write your name and email id in format 
+Name<email>
+In the license declaration above every file you make change to. You won't be able to claim the license for changes made by you unless you do that.
+
+Also, I'd like to recommend reading 
+https://source.android.com/source/code-style.html
+Before making changes in code. Existing code itself might not follow this, but you don't have to do same mistakes we did a year ago! 
 
 This app is still in beta stage, hence, you might face some bugs, lack of features.
 
